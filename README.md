@@ -16,19 +16,19 @@ I enjoy turning complex business requirements into reliable, maintainable, and s
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center">
       <h2>7+</h2>
       <b>Years Experience</b>
     </td>
-    <td align="center" width="25%">
+    <td align="center">
       <h2>100+</h2>
       <b>Live Projects</b>
     </td>
-    <td align="center" width="25%">
+    <td align="center">
       <h2>50+</h2>
       <b>API Integrations</b>
     </td>
-    <td align="center" width="25%">
+    <td align="center">
       <h2>6+</h2>
       <b>Flutter Apps</b>
     </td>
