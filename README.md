@@ -113,7 +113,7 @@ I work with a wide range of technologies to build scalable web applications, API
 ### 🛒 CMS & E-commerce
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress,woocommerce,shopify" />
+  <img src="https://skillicons.dev/icons?i=wordpress,shopify,woocommerce" />
 </p>
 
 - WordPress
